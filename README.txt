@@ -1,5 +1,5 @@
 Name(s) : Chanel Cheng
-Project Choice : uscheme-ms
+Project Choice : uprolog
 Time spent on assignment : 
 Additional Collaborators : Galen Sagarin
 
